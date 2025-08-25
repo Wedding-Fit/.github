@@ -1,5 +1,6 @@
-## 💍 WeddingFit (KB 6기 해커톤)
-
+<h1>
+  <img width="44" height="44" alt="logo" align="absmiddle" src="https://github.com/user-attachments/assets/cb4ea85d-bc50-41a4-b057-000d248cf03f" /> WeddingFit (KB 6기 해커톤)
+</h1>
 결혼을 준비하는 MZ세대가 가장 부담스러워하는 자금 문제를 돕기 위해, AI 기반 소비 분석, 맞춤형 금융 상품 추천, 커플 공동 예산 관리, 결혼 비용 절약 팁을 제공하는 결혼 특화 금융 플랫폼
 
 ## 👤 팀 구성
