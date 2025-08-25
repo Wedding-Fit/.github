@@ -1,3 +1,6 @@
+## 💍 WeddingFit (KB 6기 해커톤)
+
+
 ## 👤 팀 구성
 
 | [김보성](https://github.com/greentea0413) | [이혜원](https://github.com/icegosimperson) | [유예원](https://github.com/Uyewon) | [최예빈](https://github.com/beenvyn) |
